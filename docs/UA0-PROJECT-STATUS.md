@@ -40,7 +40,7 @@ One line per clause. Status values: `not started` | `drafted from belief` | `dra
 A running list. Each entry is a single line: what was completed, and the date.
 
 - 2026-05-06 Project initialized; idea sparked by neighborhood conversations about Little Free Libraries
-- 2026-05-12 Project folder placed under git version control, wired to GitHub remote Busboom-Foo/Cowork-Test
+- 2026-05-12 Project folder placed under git version control, wired to GitHub remote Busboom-Foo/Cowork-Test.
 
 ## Known gaps
 
