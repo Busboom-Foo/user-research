@@ -1,7 +1,7 @@
 ---
 title: User Research Project
 layout: home
-last_updated: 2026-05-15
+last_updated: 2026-05-20
 ---
 
 # User Research Project
@@ -26,20 +26,10 @@ maintained by the `update-jekyll-index` skill.
 
 ## Documents
 
-No UA documents have been produced yet. As the student works through the
-process, the agent will add files under `docs/` and update this index
-with a one-line description of each. The full set of possible documents
-is:
+### Stage 1 — Discovery
 
-- `UA0-PROJECT-STATUS.md` — agent-maintained record of where the project is
-- `ua1-opportunity-notes.md` — friction observed, conversations, candidate opportunity (opportunity discovery)
-- `ua2-positioning-statement.md` — Moore positioning paragraph + per-clause evidence (Stage 1)
-- `ua3-research-plan.md` — desk research plan, sources, log (Stage 1)
-- `ua4-interview-plan.md` — recruiting, question areas, falsification commitments (Stage 1)
-- `ua5-stage-2-analysis.md` — landscape, stakeholders, JTBD and scenarios (Stage 2)
-- `ua6-specification.md` — screen inventory, descriptions, requirements (Stage 3)
-- `wireframes/` — Astro + wired-elements project (Stage 3, lives at repo root)
+- [ua2 — Positioning statement](ua2-positioning-statement.md) — blank template; no clauses filled in yet
 
 ---
 
-*Maintained by the `update-jekyll-index` skill. Last updated: 2026-05-15.*
+*Maintained by the `update-jekyll-index` skill. Last updated: 2026-05-20.*
