@@ -15,20 +15,20 @@ documents below are produced as the project moves through those stages.
 
 ## Project status
 
-The project has not been started yet. Run `claude` in the repo, then
-`/ua-framework:start`. The orchestrator will create
-[`UA0-PROJECT-STATUS.md`](UA0-PROJECT-STATUS.md) and route the student
-into the right activity.
-
-Once the project is underway, this section will show the current stage,
-current pass or activity, last status update, and most recent checkpoint —
-maintained by the `update-jekyll-index` skill.
+- **Current stage:** Stage 1 — Discovery
+- **Current pass / activity:** Pass 0 — Origin interview
+- **Last status update:** 2026-05-12
+- **Most recent checkpoint:** 2026-05-12 Project folder placed under git version control, wired to GitHub remote Busboom-Foo/Cowork-Test
 
 ## Documents
 
 ### Stage 1 — Discovery
 
 - [ua2 — Positioning statement](ua2-positioning-statement.md) — blank template; no clauses filled in yet
+
+### Project status file
+
+- [UA0 — Project status](UA0-PROJECT-STATUS.md) — Little Free Library Hunt; Stage 1 Pass 0 in progress; all positioning clauses not started
 
 ---
 
